@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <!-- Main screen -->
+    <string name="counter_format">%1$d / %2$d</string>
+    <string name="artist_year_format">%1$s  (%2$d)</string>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="artwork_description">Artwork: %1$s by %2$s</string>
+
+    <!-- Details screen -->
+    <string name="details_header">Artwork Details</string>
+    <string name="details_format">Title: %1$s\n\nArtist: %2$s\n\nYear: %3$d</string>
+    <string name="btn_visit_website">Visit Website</string>
+    <string name="btn_back">Back</string>
+    <string name="no_browser">No browser app was found to open this link.</string>
+    <string name="no_data">No artwork data received.</string>
+    <string name="website_url">https://artsandculture.google.com/</string>
+</resources>
